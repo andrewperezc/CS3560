@@ -2,11 +2,9 @@ package assignment1;
 
 import java.util.ArrayList;
 import java.util.List;
+import assignment1.Question.*;
+import assignment1.VotingService.*;
 
-import assignment1.Question.CheckboxQuestion;
-import assignment1.Question.MultipleChoiceQuestion;
-import assignment1.Question.Question;
-import assignment1.Question.TrueFalseQuestion;
 
 public class SimulationDriver extends VotingService{
     public static void main(String[] args){

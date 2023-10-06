@@ -1,4 +1,4 @@
-package assignment1;
+package assignment1.VotingService;
 
 import assignment1.Question.Question;
 import assignment1.Student.Student;

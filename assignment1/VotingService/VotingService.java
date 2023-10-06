@@ -1,4 +1,4 @@
-package assignment1;
+package assignment1.VotingService;
 
 import java.util.HashMap;
 import java.util.Map;
